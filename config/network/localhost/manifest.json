@@ -1,7 +1,7 @@
 {
-    "year": "2377",
+    "year": "1989",
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
+    "serverName": "MCI Mail Server",
     "iconName": "MCI Logo.png",
     "terminalID": "Y56",
     "defaultUser": {
