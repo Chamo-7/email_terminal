@@ -3,7 +3,7 @@
     "serverAddress": "localhost",
     "serverName": "MCI Mail Server",
     "iconName": "MCI Logo.png",
-    "terminalID": "Y56",
+    "terminalID": "MCI56",
     "defaultUser": {
         "userId": "user",
         "password": "",
