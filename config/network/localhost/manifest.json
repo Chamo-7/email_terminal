@@ -3,13 +3,13 @@
     "serverAddress": "localhost",
     "serverName": "MCI Mail Server",
     "iconName": "MCI Logo.png",
-    "terminalID": "MCI56",
+    "terminalID": "MCI_NOLA",
     "defaultUser": {
         "userId": "user",
         "password": "",
         "userName": "anonymous"
     },
-    "randomSeed": true,
+    "randomSeed": false,
     
     "latestKernel": true
 }
