@@ -1,9 +1,9 @@
 [
     {
-        "from": "Traveller",
-        "to": ["8A73B5", "a"],
-        "title": "Do not Open",
-        "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
+        "from": "MCI Communications Corp.",
+        "to": ["rbaker47", "MStrat","ruben105"],
+        "title": "Welcome to MCI Mail Service",
+        "body": "Hi:  Welcome to MCI Communications' latest and greatest offering: 'MCI Mail Services'  We hope you'll look to us as fondly as you do your neighborhood postman!  Let us step into the future of communication together.  Best,  Your digital friends and family at MCI Communications Corp."
     },
     {
         "from": "Software",
