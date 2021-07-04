@@ -12,15 +12,27 @@
         "body": "Pawn to E4."
     },
     {
-        "from": "Josephus A. Miller",
-        "to": ["8A73B5", "a"],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+        "from": "Lena Stamp",
+        "to": ["rbaker47", "MStrat","ruben105"],
+        "title": "Domain Notice",
+        "body": "Dear Fledglings:  The University of New Orleans is my domain. I will forgive your trangressions of stalking about my blood bank this once. If I catch you skulking my grounds with hunger in your eyes once more without permission my mercy will not be extended any longer.  Best,  Dean of New Orleans University  Lena Stamp"
     },
     {
-        "from": "Mike",
-        "to": ["admin"],
-        "title": "wtf are you kidding me?",
-        "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
+        "from": "Karter",
+        "to": ["MStrat"],
+        "title": "Heads Up",
+        "body": "Brother make sure to stay away from Linsey and her little cohort of Brujah punks. They're nothing but trouble for you and I. Also, I'm talking up you and your coterie up to my Sire, so hopefully a future meeting can be arranged between you and him.  Stay Safe!"
+    },
+    {
+        "from": "Cara",
+        "to": ["ruben105"],
+        "title": "An Apology",
+        "body": "Dear Ruben,  It seems you have been avoiding my sweet. I understand your life, or more appropriately your un-life, has been turned upside down and things are confusing, but I am still here to help you my little rabbit. Meet me at Metairie Park alone so we can catch up and I can help you out!"
+    },
+     {
+        "from": "Benoit",
+        "to": ["rbaker47"],
+        "title": "Delete after Reading",
+        "body": "A truck has been left in a garage with a red robin graffitii'd on its door on Oakland Avenue. The keys are hidden in the gas cap, further information can be found in the glove box alongside a lighter to burn said information after reading. Get this done at your earliest convenience childe.  Best,  Leopold"
     }
 ]
