@@ -12,6 +12,24 @@
         "body": "Pawn to E4."
     },
     {
+        "from": "A Friend",
+        "to": ["rbaker47", "MStrat","#1moris"],
+        "title": "undefined",
+        "body": "Bishop to B2."
+    },
+    {
+        "from": "Benoit",
+        "to": ["rbaker47"],
+        "title": "Collar",
+        "body": "Your fuckup with the Giovanni would get most fledglings a final death from their Sire. You're fucking lucky I'm not an utter bastard whose beast is itching for some young blood on his fangs. You've prove a liability to be directly attached to my name and so I'm gonna move forward with letting you become officially independent soon. You're gonna have to prove yourself to me some more just so I know I don't have to leave you out for the sun, because even once I let you enjoy the title of neonate with those Camarilla fucks I still expect you to stick to me like glue kid.  You don't got anyone else in this city but your crew and I. Of those two I'm the only one who can save your ass from finding yourself wrapped in fourty layers of plastic wrap surrounded by 10 feet of concrete.   Delete after reading."
+    },
+    {
+        "from": "Bayou Shipping Co.",
+        "to": ["rbaker47", "MStrat","#1moris"],
+        "title": "Status of Lost Delivery",
+        "body": "We are sorry to inform you that we are closing your requested invetigation ticket concerning lost cargo.  We at Bayou Shipping Co. recommend informing your employer that your (and our) investigation into the matter has revealed Ralf Mullins had a severe drug addiction which led him down a path of desperation of selling the cargo to an unknown Cuban criminal group that has since gone deep underground.  Our company is happy to offer you a reward that shall be discreetly shipped to your warehouse in exchange for permanently alleviating your employer's mind of this minor cargo issue, alongside ensuring this email never reaches him and worries him more.  Sincerely,  Bayou Shipping Company"
+    },
+    {
         "from": "Lena Stamp",
         "to": ["rbaker47", "MStrat"],
         "title": "Domain Notice",
@@ -24,9 +42,45 @@
         "body": "Brother make sure to stay away from Linsey and her little cohort of Brujah punks. They're nothing but trouble for you and I. Also, I'm talking up you and your coterie up to my Sire, so hopefully a future meeting can be arranged between you and him.  Stay Safe!"
     },
     {
-        "from": "Benoit",
+        "from": "Undefined",
         "to": ["rbaker47"],
-        "title": "Delete after Reading",
-        "body": "A truck has been left in a garage with a red robin graffitii'd on its door on Oakland Avenue. The keys are hidden in the gas cap, further information can be found in the glove box alongside a lighter to burn said information after reading. Get this done at your earliest convenience childe.  Best,  Leopold"
+        "title": "Questions about Exam 1",
+        "body": "Looking to rise above being a nobody, then start working for and getting close to Vidal. Don't ever let him know your reasoning for it is this email. I'll contact you further from there.  'In History, stagnant waters, whether they be stagnant waters of custom or those of despotism, harbour no life; life is dependent on the ripples created by a few eccentric individuals. In homage to that life and vitality, the community has to brave certain perils and must countenance a measure of heresy. One must live dangerously if one wants to live at all.'  - Herbert Read"
+    },
+    {
+        "from": "Konstantine",
+        "to": ["MStrat"],
+        "title": "Идиот Чайльд",
+        "body": "you have job. come jefferson park two nights  3:30am  job = neonate  BE THER тупая сука"
+    },
+    {
+        "from": "Teddy Torrenti",
+        "to": ["MStrat"],
+        "title": "Important Pickup Job",
+        "body": "Mark:  Marcello has work that appeases your weird ass raccoon lifestyle. Got a high roller to pickup in your nicest car from NOIA at midnight on Friday. Make sure to dress nice too, the guy is flying in from Sicily if you catch my drift.  Best,  Torrenti"
+    },
+    {
+        "from": "Mr. Fletcher",
+        "to": ["#1moris"],
+        "title": "Obtain the Information",
+        "body": "Morris,  Obtain any and all information on Benoit as you can and deliver it to me. Ideally try and track a paper trail.  Make sure this is all done rather discreetly and done without his notice or that of his childe.  This information is valuable and I need not explain why. Get the job done at your earliest convenience. Also, don't worry I will ensure whatever is done with the information will not track back to either of us, so do not let the concept of this work later embarassing yourself infront of your new friends in unlife get the better of you. I have your back if you keep pace with your duties and will bring upon a final death for them if they lay a finger on you."
+    },
+    {
+        "from": "Levi Coffin",
+        "to": ["rbaker47", "MStrat","#1moris"],
+        "title": "ALERT: Rail Lines in Willswood Under Maintenance",
+        "body": "If you wanna be apart of change in the Big Easy then park on the Willswood rail tracks at 2:00am tomorrow night. Do not tell anyone outside your group about this, not even your 'parents'.  Can't give much details over this new fangled shit, but we stand against pricks like Mr. Gloves."
+    },
+    {
+        "from": "DJ Buffy",
+        "to": ["rbaker47", "MStrat"],
+        "title": "Interview Request",
+        "body": "Hey Alley Cats I hear you're on the outs with the brother fuckers and not exactly a crew of rule book readers. I like that.  Come on down to the station for an 'interview' if that interests ya.  No twisting of your arm or nuffin', but we do got some pretty sweet jams here if thats you're kinda scene and entices ya."
+    },
+    {
+        "from": "undefined",
+        "to": ["rbaker47", "MStrat","#1moris"],
+        "title": "untitled",
+        "body": "DOWNLOAD AnguishBAFS.AIFF [shorturl.at/azX79]"
     }
 ]
