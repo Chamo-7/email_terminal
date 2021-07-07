@@ -24,6 +24,18 @@
         "body": "The King Lives"
     },
     {
+        "from": "Colonial Living Apartments",
+        "to": ["rbaker47"],
+        "title": "Sales Notice",
+        "body": "We are sorry to hear that you will be leaving our family of tenants, but hope wherever you're heading next is equally as great. We've found a prospective buyer already. So just ensure all of your belongings are moved out by the end of the week!"
+    },
+    {
+        "from": "undefined",
+        "to": ["rbaker47"],
+        "title": "We Know",
+        "body": "Flee all you like...we know"
+    },
+    {
         "from": "Benoit",
         "to": ["rbaker47"],
         "title": "Collar",
@@ -60,7 +72,7 @@
         "body": "Looking to rise above being a nobody, then start working for and getting close to Vidal. Don't ever let him know your reasoning for it is this email. I'll contact you further from there.  'In History, stagnant waters, whether they be stagnant waters of custom or those of despotism, harbour no life; life is dependent on the ripples created by a few eccentric individuals. In homage to that life and vitality, the community has to brave certain perils and must countenance a measure of heresy. One must live dangerously if one wants to live at all.'  - Herbert Read"
     },
     {
-        "from": "Konstantine",
+        "from": "Konstantin",
         "to": ["MStrat"],
         "title": "Идиот Чайльд",
         "body": "you have job. come jefferson park two nights  3:30am  job = neonate  BE THER тупая сука"
@@ -75,7 +87,7 @@
         "from": "Mr. Fletcher",
         "to": ["#1moris"],
         "title": "Obtain the Information",
-        "body": "Morris,  Obtain any and all information on Benoit as you can and deliver it to me. Ideally try and track a paper trail.  Make sure this is all done rather discreetly and done without his notice or that of his childe.  This information is valuable and I need not explain why. Get the job done at your earliest convenience. Also, don't worry I will ensure whatever is done with the information will not track back to either of us, so do not let the concept of this work later embarassing yourself infront of your new friends in unlife get the better of you. I have your back if you keep pace with your duties and will bring upon a final death for them if they lay a finger on you."
+        "body": "Morris,  Obtain any and all information on Benoit's operations as you can and deliver it to me. Ideally try to find and track a paper trail.  Make sure this is all done rather discreetly and done without his notice or that of his childe.  This information is valuable and I need not explain why. Get the job done at your earliest convenience. Also, don't worry I will ensure whatever is done with the information will not track back to either of us, so do not let the concept of this work later embarassing yourself infront of your new friends in unlife get the better of you. I have your back if you keep pace with your duties and will bring upon a final death for them if they lay a finger on you."
     },
     {
         "from": "Levi Coffin",
