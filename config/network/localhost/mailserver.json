@@ -18,10 +18,22 @@
         "body": "Bishop to B2."
     },
     {
+        "from": "But",
+        "to": ["rbaker47", "MStrat"],
+        "title": "A King Falls",
+        "body": "The King Lives"
+    },
+    {
         "from": "Benoit",
         "to": ["rbaker47"],
         "title": "Collar",
         "body": "Your fuckup with the Giovanni would get most fledglings a final death from their Sire. You're fucking lucky I'm not an utter bastard whose beast is itching for some young blood on his fangs. You've prove a liability to be directly attached to my name and so I'm gonna move forward with letting you become officially independent soon. You're gonna have to prove yourself to me some more just so I know I don't have to leave you out for the sun, because even once I let you enjoy the title of neonate with those Camarilla fucks I still expect you to stick to me like glue kid.  You don't got anyone else in this city but your crew and I. Of those two I'm the only one who can save your ass from finding yourself wrapped in fourty layers of plastic wrap surrounded by 10 feet of concrete.   Delete after reading."
+    },
+    {
+        "from": "Arthur Boor",
+        "to": ["rbaker47"],
+        "title": "Let's Catch up",
+        "body": "Hey man it's been like a month since we last hung. Jillian said you got cancer or some shit? What the fuck man?  Stop by the club and catch me up to speed on shit. Plus I even made a new friend in the city who you'd probably like, he's a big fucking history nerd too."
     },
     {
         "from": "Bayou Shipping Co.",
