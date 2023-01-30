@@ -4,19 +4,13 @@
         "password": "trustno1",
         "userName": "Mulder, Fox"
     },
-
+    
     {
-        "userId": "a",
-        "password": "a",
+        "userId": "Wonder",
+        "password": "Wall",
         "userName": "Mulder, Fox"
     },
-
-    {
-        "userId": "admin",
-        "password": "admin",
-        "userName": "root"
-    },
-
+    
     {
         "userId": "n",
         "password": "n",
