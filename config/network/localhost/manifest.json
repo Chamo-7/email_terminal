@@ -1,8 +1,8 @@
 {
     "serverAddress": "localhost",
-    "serverName": "Node Y56 Intranet",
-    "iconName": "Moon-icon.png",
-    "terminalID": "Y56",
+    "serverName": "Prodigy Interactive Personal Service",
+    "iconName": "Prodigy.png",
+    "terminalID": "DESKTOP-SJ2F32",
     "defaultUser": {
         "userId": "user",
         "password": "",
