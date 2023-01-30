@@ -9,6 +9,7 @@
  */
 /* eslint-disable no-inner-declarations, no-nested-ternary, no-sequences, no-unused-vars */
 
+/*
 function decrypt( args ) { // The same function can be used to encode text
     if ( args.length === 0 ) {
         return "<p>Some encrypted text must be provided: <code>decrypt 53CR3T T3XT</code></p>";
@@ -154,5 +155,6 @@ const DWEETS = {
             }
             x.fillRect( S + 96, T + 54, C( Math.atan2( S, T, r ) * 9 ) * 20 - r & 44 && r > 36 ? r < 42 ? T / R : S / R : 1, r > 36 ? r < R : z( 3 ) / 5 );
         }
+        */
     }, 198, 100 )
 };
