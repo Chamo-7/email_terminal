@@ -1,8 +1,8 @@
 {
     "year": "2000",
     "serverAddress": "localhost",
-    "serverName": "Prodigy Interactive Personal Service",
-    "iconName": "MCI Logo.png",
+    "serverName": "ShreckNet 2.0",
+    "iconName": "Shreknet.png",
     "terminalID": "DESKTOP-SJ2F32",
     "defaultUser": {
         "userId": "user",
