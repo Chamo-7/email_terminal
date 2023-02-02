@@ -6,7 +6,7 @@
         "body": "Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua.  Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex ea commodo consequat."
     },
     {
-        "from": "Software",
+        "from": "Software@schrecknet.vtm",
         "to": ["8A73B5", "a"],
         "title": "undefined",
         "body": "001100101 011000101 0110 10 01001 01 01110 1001010101"
