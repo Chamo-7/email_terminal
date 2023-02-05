@@ -1,7 +1,7 @@
 {
     "year": "2000",
     "serverAddress": "localhost",
-    "serverName": "ShreckNet 2.0",
+    "serverName": "ShreckNet",
     "iconName": "Shreknet.png",
     "terminalID": "DESKTOP-SJ2F32",
     "defaultUser": {
