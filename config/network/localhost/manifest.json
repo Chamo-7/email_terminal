@@ -1,9 +1,9 @@
 {
-    "year": "2000",
+    "year": "1105",
     "serverAddress": "localhost",
-    "serverName": "ShreckNet",
-    "iconName": "Shreknet.png",
-    "terminalID": "DESKTOP-SJ2F32",
+    "serverName": "X-Mail Connect",
+    "iconName": "XMail.png",
+    "terminalID": "ST-SJ2F32",
     "defaultUser": {
         "userId": "user",
         "password": "",
