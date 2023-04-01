@@ -111,6 +111,9 @@ body {
 .ls-files {
   column-width: 100px;
 }
+.crt {
+	animation: textShadow 4s infinite;
+}
 /* Scanline moving top to bottom over the screen */
 .scanline {
 	width: 100%;
