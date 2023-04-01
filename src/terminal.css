@@ -114,7 +114,7 @@ body {
 
 /* Animations */
 
-/* Recipe from: https://dev.to/ekeijl/retro-crt-terminal-screen-in-css-js-4afh
+/* Recipe from: https://dev.to/ekeijl/retro-crt-terminal-screen-in-css-js-4afh */
 @keyframes textShadow {
 	0% {
 		text-shadow: 0.4389924193300864px 0 1px rgba(0, 30, 255, 0.5),
@@ -221,7 +221,7 @@ body {
 			-2.6208764473832513px 0 1px rgba(255, 0, 80, 0.3),
 			0 0 3px;
 	}
-} */
+}
 
 /* Special FX */
 
