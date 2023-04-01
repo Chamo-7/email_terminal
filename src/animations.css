@@ -106,3 +106,15 @@
 			0 0 3px;
 	}
 }
+
+@keyframes scanline {
+	0% {
+		bottom: 100%;
+	}
+	80% {
+		bottom: 100%;
+	}
+	100% {
+		bottom: -20%;
+	}
+}
