@@ -46,7 +46,7 @@ html, body {
   height: 100%;
   margin: 0;
 }
-body {
+body #crt {
   font-size: 14pt;
   font-family: VT323, monospace;
   color: #FFCC00;
