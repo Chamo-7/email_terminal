@@ -24,6 +24,12 @@
         "body": "Hello Mr. Orange:  Congratulations on your latest anniversary of your departure from the General Development Company. We hope retirement is treating you well, and you have been able to kick back and relax on the nearest tropical world.    In honor of your EIGHT years with the company, we're offering you a limited time deal of a 8% of any one singular meal purchased at any BURGYROS BROTHERS located at any Imperial Starport of level B or higher!    Coupon Code: XH319E12R9A        General Development Company Building Better Worlds, Building Better Futures"
     },
     {
+        "from": "ALo@GeDeCo.tr",
+        "to": ["MayhewOrange"],
+        "title": "When I dream, I can still feel my eyes boiling",
+        "body": "[OPEN ATTACHED AUDIO FILE]"
+    },
+    {
         "from": "Mike",
         "to": ["admin", "admin"],
         "title": "wtf are you kidding me?",
