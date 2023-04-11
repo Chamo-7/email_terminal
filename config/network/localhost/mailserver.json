@@ -1,19 +1,31 @@
 [
     {
-        "from": "NYAdmin@schrecknet.vtm",
-        "to": ["8A73B5", "a"],
-        "title": "Welcome",
-        "body": "Welcome fledgling: You've been granted access to the Shrecknet and all of its features. Ensure proper usage of the privelege, or else."
+        "from": "Rao@dx.tr",
+        "to": ["MayhewOrange"],
+        "title": "Details Concerning Package #4901",
+        "body": "Hello Mayhew:  Just wanted to put in writing the courier work I discussed with you before your departure.  The package loaded aboard the merchant vessel you were purchased passage on will be need to be brought to the world of Adhara (0609). Once there you will have to establish contact with one Bah'ran Selkz -- a local antiques dealer and modern archaeologist (no degree backs this latter title) -- and exchange the package for an item of interest he holds. Once you have retrieved the item, immedieately return it to Drinax post-haste.    An account has already been established for the automatic payments meant for your hired merceneary cohort. I entrust you to the right judgement calls towards their usage on any problems that may pop up. As always, stay safe, my sources say that Selkz is a jumpy man and his status with the authorities on Adhara are not the best.     Glory to Drinax,    Her Royal Highness of the Sindalian Empire in Exile Princess Rao of Drinax"
     },
     {
-        "from": "Josephus A. Miller",
-        "to": ["8A73B5", "a"],
-        "title": "Contrato n22",
-        "body": "Sector: X11.  Objective: Investigate the sewers and report only to me.  Reward: 22 MCr."
+        "from": "SEXXXX@2hfd9.tr",
+        "to": ["MayhewOrange"],
+        "title": "xXx LiveWire P0RNO xXx",
+        "body": "xXx PORNO LIVEWIRE xXx     xXx FUCK LIVEWIRE xXx   xXx P0RN0 HOT xXx   xXx MAX FEEL LIVEWIRE xxx   xxx KUM XPLOZION XxX   xXx REAL FEEL FUX xXx    L00kin for the best exxxperience of your miserable life?!   KUM RUNNING N0W AND SUBSCRIBE!  JOIN NOW FOR OUR H0TTEST OFFERS AND EVEN H0TTER WIRES! THEY'RE SURE TO SET YOUR SKULL ON F!RE"
+    },
+    {
+        "from": "Health@GeDeCo.ti",
+        "to": ["MayhewOrange"],
+        "title": "Notice of Health Insurance Transfer",
+        "body": "Hello Mr. Orange:  The Health team here at GeDoCo would like to reach out to give you notice that one Alaiya Lo has been transferred from your terminated plan and onto a new plan within our system.  This correspondance is simply a matter of complying with Imperial Corporate Health Regulation Statue 14095.2.   DO NOT RESPOND TO this CORRESPONDANCE.       General Development Company Building Better Worlds, Building Better Futures"
+    },
+    {
+        "from": "Retirement@GeDeCo.ti",
+        "to": ["MayhewOrange"],
+        "title": "Anniversary Celebration!",
+        "body": "Hello Mr. Orange:  Congratulations on your latest anniversary of your departure from the General Development Company. We hope retirement is treating you well, and you have been able to kick back and relax on the nearest tropical world.    In honor of your EIGHT years with the company, we're offering you a limited time deal of a 8% of any one singular meal purchased at any BURGYROS BROTHERS located at any Imperial Starport of level B or higher!    Coupon Code: XH319E12R9A        General Development Company Building Better Worlds, Building Better Futures"
     },
     {
         "from": "Mike",
-        "to": ["admin"],
+        "to": ["admin", "admin"],
         "title": "wtf are you kidding me?",
         "body": "Are you kidding me? Why don't you change your password?  The system is entirely compromised until you correct it.  You're the sysadmin, if you're this dumb the corporation is at risk."
     }
