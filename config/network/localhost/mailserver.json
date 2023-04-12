@@ -21,13 +21,25 @@
         "from": "Retirement@GeDeCo.ti",
         "to": ["MayhewOrange"],
         "title": "Anniversary Celebration!",
-        "body": "Hello Mr. Orange:  Congratulations on your latest anniversary of your departure from the General Development Company. We hope retirement is treating you well, and you have been able to kick back and relax on the nearest tropical world.    In honor of your EIGHT years with the company, we're offering you a limited time deal of a 8% of any one singular meal purchased at any BURGYROS BROTHERS located at any Imperial Starport of level B or higher!    Coupon Code: XH319E12R9A        General Development Company     Building Better Worlds, Building Better Futures"
+        "body": "Hello Mr. Orange:  Congratulations on the latest anniversary of your departure from the General Development Company. We hope retirement is treating you well, and you have been able to kick back and relax on the nearest tropical world.    In honor of your EIGHT years with the company, we're offering you a limited time deal of a 8% of any one singular meal purchased at any BURGYROS BROTHERS located at any Imperial Starport of level B or higher!    Coupon Code: XH319E12R9A        General Development Company     Building Better Worlds, Building Better Futures"
     },
     {
         "from": "ALo@GeDeCo.tr",
         "to": ["MayhewOrange"],
         "title": "When I dream, I can still feel my eyes boiling",
         "body": "[OPEN ATTACHED AUDIO FILE]"
+    },
+    {
+        "from": "Mayhew@dx.tr",
+        "to": ["TBD"],
+        "title": "Another Job",
+        "body": "Mayhew here,       I've worked with you before and felt you'd be suited for another security gig. Might have a couple more guns around than usual for this job but nothing out of the norm. Pays well and will keep you occupied for a bit. Message me back if you're interested.        Seeing you soon,    Mayhew"
+    },
+    {
+        "from": "KenFromTheBlock@iva.tr",
+        "to": ["Small"],
+        "title": "Hey buddy",
+        "body": "how u doin? i was thinki about you recently and i jst wanted to see if u alve still        i just got a new johb! its paying for all my new fishing stuff, so yeah, it's p. good       all i gots 2 do is guard some boxes all night til shift endz        you know who it is and hw it B, catch yar later battle buddy        -- Ken"
     },
     {
         "from": "Mike",
