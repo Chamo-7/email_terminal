@@ -12,6 +12,12 @@
     },
     
     {
+        "userId": "Small_Lebowski",
+        "password": "Pass123",
+        "userName": "TBD"
+    },
+    
+    {
         "userId": "n",
         "password": "n",
         "userName": "debug"
