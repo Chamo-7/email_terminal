@@ -1,7 +1,7 @@
 {
-    "serverAddress": "fbi.gov",
-    "serverName": "Federal Bureau of Investigation",
-    "iconName": "fbi.png",
-    "terminalID": "fbi",
+    "serverAddress": "ShrekNet",
+    "serverName": "ShrekNet Private Instance | 1398.201",
+    "iconName": "Shreknet.png",
+    "terminalID": "ShrekNet",
     "randomSeed": true
 }
