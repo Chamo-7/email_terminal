@@ -1,7 +1,31 @@
 [
     {
-        "userId": "Ventrue",
-        "password": "Ventrue",
-        "userName": "TEST, TEST"
+        "userId": "ALSucks",
+        "password": "Pass",
+        "userName": "Rainier, Johnny"
+    },
+    
+    {
+        "userId": "zeke",
+        "password": "journals",
+        "userName": "Miller, Zeke"
+    },
+    
+    {
+        "userId": "Small_Lebowski",
+        "password": "Pass123",
+        "userName": "Armstrong, Cyrus"
+    },
+    
+    {
+        "userId": "Rainbow",
+        "password": "Rainbow",
+        "userName": "Rainbow"
+    },
+    
+    {
+        "userId": "n",
+        "password": "n",
+        "userName": "debug"
     }
 ]
