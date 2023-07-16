@@ -1,12 +1,12 @@
 {
     "year": "2000",
-    "serverAddress": "shrecknet",
-    "serverName": "ShreckNet Private Connection",
+    "serverAddress": "schrecknet",
+    "serverName": "SchreckNET Private Connection",
     "iconName": "Beep.png",
     "terminalID": "PT-SJ2F32",
     "defaultUser": {
         "userId": "user",
         "password": "",
-        "userName": "anonymous"
+        "userName": "PrivateConnection"
     }
 }
