@@ -1,0 +1,31 @@
+[
+    {
+        "userId": "MayhewOrange",
+        "password": "ExploBoy",
+        "userName": "Orange, Mayhew"
+    },
+    
+    {
+        "userId": "space_chimp",
+        "password": "banana1",
+        "userName": "Vercingetorix"
+    },
+    
+    {
+        "userId": "Small_Lebowski",
+        "password": "Pass123",
+        "userName": "Armstrong, Cyrus"
+    },
+    
+    {
+        "userId": "Rainbow",
+        "password": "Rainbow",
+        "userName": "Rainbow"
+    },
+    
+    {
+        "userId": "n",
+        "password": "n",
+        "userName": "debug"
+    }
+]
