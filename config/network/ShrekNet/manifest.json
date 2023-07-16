@@ -1,0 +1,12 @@
+{
+    "year": "2000",
+    "serverAddress": "ShrekNet Private Instance | 1398.201",
+    "serverName": "ShrekNet",
+    "iconName": "ShrekNet.png",
+    "terminalID": "PT-SJ2F32",
+    "defaultUser": {
+        "userId": "user",
+        "password": "",
+        "userName": "PrivateConnection"
+    }
+}
