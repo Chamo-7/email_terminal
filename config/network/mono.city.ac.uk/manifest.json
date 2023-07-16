@@ -1,7 +1,7 @@
 {
     "serverAddress": "mono.city.ac.uk",
     "serverName": "Monochrome BBS",
-    "iconName": "cmd.png",
+    "iconName": "ShrekNet.png",
     "terminalID": "city",
     "defaultUser": {
         "userId": "user",
